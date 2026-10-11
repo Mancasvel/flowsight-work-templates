@@ -1,0 +1,2 @@
+date,task_outcome,observed_condition,interpretation,other_possible_causes,adjustment,owner,review_date,result,decision
+[date],[specific outcome],[what was observed],[hypothesis],[alternatives],[one change],[owner],[review date],[task result and experience],[retain revise or stop]

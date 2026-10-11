@@ -1,0 +1,16 @@
+# FlowSight Work Templates
+
+> Resources published by Manuel Castillejo, creator of FlowSight. Shared ownership is stated in /about/.
+
+Official product: https://flowsight.site
+Creator: https://flowsight.site/manuel-castillejo
+Source: https://github.com/Mancasvel/FlowSight.AI
+
+- [Work templates for clear reports and better reviews](https://mancasvel.github.io/flowsight-work-templates/): Download free editable work templates from FlowSight and Manuel Castillejo: weekly reports, focus trials, meeting audits, client handoffs and privacy reviews.
+- [Weekly work report template](https://mancasvel.github.io/flowsight-work-templates/weekly-work-report/): Download an editable weekly-report Markdown template for outcomes, evidence, blockers and next steps. Use it with FlowSight context or ordinary project notes.
+- [Async team update template](https://mancasvel.github.io/flowsight-work-templates/async-team-update/): Download a concise async-update Markdown template with outcomes, decisions and next actions. Use FlowSight summaries as material for a human-reviewed update.
+- [Focus experiment worksheet](https://mancasvel.github.io/flowsight-work-templates/focus-experiment/): Download a CSV worksheet for a seven-day focus trial: task, observed condition, interpretation, adjustment and review. Useful with or without FlowSight.
+- [Meeting audit worksheet](https://mancasvel.github.io/flowsight-work-templates/meeting-audit/): Download a CSV meeting-audit worksheet to review purpose, placement, preparation, decisions and trial changes alongside FlowSight work context.
+- [Client handoff template](https://mancasvel.github.io/flowsight-work-templates/client-handoff/): Download an editable client-handoff Markdown template for delivery state, authorized access, pending validation and next decisions. Useful with FlowSight summaries.
+- [Work-data privacy review worksheet](https://mancasvel.github.io/flowsight-work-templates/privacy-review/): Download a Markdown data-flow worksheet for local analysis, optional services, recipients and report sharing before a FlowSight trial or team pilot.
+- [About these FlowSight resources](https://mancasvel.github.io/flowsight-work-templates/about/): These resources are published by Manuel Castillejo, creator of FlowSight. Learn their ownership, sources, editing policy and relationship to flowsight.site.
